@@ -29,4 +29,9 @@ We at QuillAudits have -
   - our Previous Audit reports can be viewed on our Github: https://github.com/Quillhash/Audit_Reports
 
 ---
+📫 How to reach me:
+
+  - https://twitter.com/dimulskiatanas
+  - https://www.linkedin.com/in/atanas-dimulski-9bb628195/
+  - dimulskiatanas@gmail.com
 
