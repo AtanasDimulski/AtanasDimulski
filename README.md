@@ -12,7 +12,6 @@ I am always looking for new opportunities be it a job opening, private audit/sec
   - Linkedin: [Atanas Dimulski](https://www.linkedin.com/in/atanas-dimulski-9bb628195/)
   - Email: [dimulskiatanas@gmail.com](dimulskiatanas@gmail.com)
 # Summary - Dimulski
-### Audit Competitions
 | Overall | High risk | Medium risk |
 |:--:|:--:|:--:|
 | 6 High/Medium | 5 High | 1 Medium | 
@@ -25,7 +24,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [Maia Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top) | - | - | TBC |
+| [Hubble Exchange](https://audits.sherlock.xyz/contests/72) | 0 | 1 | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/1.%20Hubble%20Exchange/Hubble%20Exchange%20Report.md) |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 | Contest | High risk | Medium risk | Security report | 
