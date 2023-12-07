@@ -15,7 +15,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 ### Audit Competitions
 | Overall | High risk | Medium risk |
 |:--:|:--:|:--:|
-| 1 High/Medium | 1 High | 0 Medium | 
+| 6 High/Medium | 5 High | 1 Medium | 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
 | Contest | High risk | Medium risk | Security report | 
@@ -30,7 +30,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [Maia Ulysses Omnichain](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top) | - | - | TBC |
+| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 | 0 | [Report](https://github.com/AtanasDimulski/Portfolio/edit/main/Dimulski/CodeHawks/1.%20Beedle/Beedle%20Report.md) |
 
 # Summary - Grey Hawk Reach 
 | Overall | High risk | Medium risk |
