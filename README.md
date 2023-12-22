@@ -25,7 +25,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
 | [Hubble Exchange](https://audits.sherlock.xyz/contests/72) | 0 | 1 | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/1.%20Hubble%20Exchange/Hubble%20Exchange%20Report.md) |
-| [Nouns Builder](https://audits.sherlock.xyz/contests/111) | 1 | 0 | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/1.%20Hubble%20Exchange/Hubble%20Exchange%20Report.md) |
+| [Nouns Builder](https://audits.sherlock.xyz/contests/111) | 1 | 0 | [Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 | Contest | High risk | Medium risk | Security report | 
