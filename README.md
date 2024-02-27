@@ -36,8 +36,8 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 | Contest | High risk | Medium risk | Ranking | Security report | 
 |:--:|:--:|:--:|:--:|:--:|
 | [Hubble Exchange](https://audits.sherlock.xyz/contests/72) | 0 | 1 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/1.%20Hubble%20Exchange/Hubble%20Exchange%20Report.md) |
-| [Nouns Builder](https://audits.sherlock.xyz/contests/111) | 1 | 0 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
-| [LooksRare YOLO](https://audits.sherlock.xyz/contests/163) | 1 | 0 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
+| [Nouns Builder](https://audits.sherlock.xyz/contests/111) | 1 | 0 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/2.%20Nouns%20Builder/Nouns%20Builder%20Report.md) |
+| [LooksRare YOLO](https://audits.sherlock.xyz/contests/163) | 1 | 0 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/3.%20LooksRare%20Yolo/LooksRare%20Yolo%20Report.md) |
 
 # Summary - Grey Hawk Reach 
 | Overall | High risk | Medium risk |
