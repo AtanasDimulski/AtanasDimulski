@@ -21,7 +21,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 | Contest | High risk | Medium risk | Ranking | Security report | 
 |:--:|:--:|:--:|:--:|:--:|
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 | 0 | - |[Report](https://github.com/AtanasDimulski/Portfolio/edit/main/Dimulski/CodeHawks/1.%20Beedle/Beedle%20Report.md) |
-| [The Standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl) | 3 | 0 | 🥇 |[Report](https://github.com/AtanasDimulski/Portfolio/edit/main/Dimulski/CodeHawks/1.%20Beedle/Beedle%20Report.md) |
+| [The Standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl) | 3 | 0 | 🥇 |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/CodeHawks/2.%20The%20Standard/The%20Standard%20Report.md) |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 | Contest | High risk | Medium risk | Ranking | Security report | 
@@ -29,8 +29,8 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | 1 | 0 | - | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/1.%20Dopex/Dopex%20Report.md) |
 | [NextGen](https://code4rena.com/contests/2023-10-nextgen#top) | 1 | 2 | 11/242 | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
 | [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | 0 | 1 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/3.%20Revolution%20Protocol/Revolution%20Report.md) |
-| [Curves](https://code4rena.com/audits/2024-01-curves#top) | 3 | 4 | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
-| [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) | - | - | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
+| [Curves](https://code4rena.com/audits/2024-01-curves#top) | 3 | 4 | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/4.%20Curves/Curves%20Report.md) |
+| [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) | - | - | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/5.%20AiArena/AiArena%20Report.md) |
 
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 | Contest | High risk | Medium risk | Ranking | Security report | 
@@ -69,7 +69,7 @@ Analysis reports are in-depth analyses of a codebase as a whole. You can check o
 |:--:|:--:|:--:|
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02#top) | Grade-A | [Private report](https://github.com/AtanasDimulski/Portfolio/blob/main/Grey%20Hawk%20Reach/Code4rena/4.%20Chainlink%20Staking%20v0.2/Chainlink%20Staking%20v0.2%20Analysis%20Report.md)|
 | [NextGen](https://code4rena.com/contests/2023-10-nextgen#top) | Grade-A | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Analysis%20Report.md) |
-| [Curves](https://code4rena.com/audits/2024-01-curves#top) | Grade-A | [Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Analysis%20Report.md) |
+| [Curves](https://code4rena.com/audits/2024-01-curves#top) | Grade-A | [Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/4.%20Curves/Curves%20Analysis%20Report.md) |
 ## Code4rena QA Reports
 Quality Assurance (QA) reports are reports comprising Low/Non-critical/Informational findings that can have some impact on a protocol but do not result in a direct loss of funds or broken protocol functionality.
 | Contest | Grade | QA Report |
