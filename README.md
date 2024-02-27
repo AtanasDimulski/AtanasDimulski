@@ -28,7 +28,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 |:--:|:--:|:--:|:--:|:--:|
 | [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | 1 | 0 | - | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/1.%20Dopex/Dopex%20Report.md) |
 | [NextGen](https://code4rena.com/contests/2023-10-nextgen#top) | 1 | 2 | 11/242 | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
-| [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | 0 | 1 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
+| [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | 0 | 1 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/3.%20Revolution%20Protocol/Revolution%20Report.md) |
 | [Curves](https://code4rena.com/audits/2024-01-curves#top) | 3 | 4 | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
 | [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) | - | - | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/2.%20NextGen/NextGen%20Report.md) |
 
