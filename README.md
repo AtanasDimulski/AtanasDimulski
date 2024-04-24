@@ -1,7 +1,6 @@
 # About Dimulski
 
 Hi there 👋, Dimulski here, an independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, and Codehawks. Here, you can see some of my past findings and contest results.
- - Team Lead at [Grey Hawk Reach](https://twitter.com/reachauditing)
  - Code4rena Profile: [dimulski](https://code4rena.com/@dimulski)
  - Sherlock Profile: [dimulski](https://audits.sherlock.xyz/watson/dimulski)
  - CodeHawks Profile: [dimulski](https://www.codehawks.com/profile/clk4159y3002smb089da6c13f)
