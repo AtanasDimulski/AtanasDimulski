@@ -30,9 +30,9 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 | [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | 0 | 1 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/3.%20Revolution%20Protocol/Revolution%20Report.md) |
 | [Curves](https://code4rena.com/audits/2024-01-curves#top) | 3 | 4 | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/4.%20Curves/Curves%20Report.md) |
 | [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) | 5 | 1 | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/5.%20AiArena/AiArena%20Report.md) |
-| [Spectra](https://code4rena.com/audits/2024-02-spectra#top) | 0 | 1 | 14 |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/5.%20AiArena/AiArena%20Report.md) |
-| [Dyad](https://code4rena.com/audits/2024-04-dyad#top) | - | - | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/5.%20AiArena/AiArena%20Report.md) |
-| [Noya](https://code4rena.com/audits/2024-04-noya#top) | - | - | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/5.%20AiArena/AiArena%20Report.md) |
+| [Spectra](https://code4rena.com/audits/2024-02-spectra#top) | 0 | 1 | 14 |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/6.%20Spectra/Spectra%20Report.md) |
+| [Dyad](https://code4rena.com/audits/2024-04-dyad#top) | - | - | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/7.%20Dyad/Dyad%20Report.md) |
+| [Noya](https://code4rena.com/audits/2024-04-noya#top) | - | - | - |[Coming soon](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Code4rena/8.%20Noya/Noya%20Report.md) |
 
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 | Contest | High risk | Medium risk | Ranking | Security report | 
@@ -40,8 +40,8 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 | [Hubble Exchange](https://audits.sherlock.xyz/contests/72) | 0 | 1 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/1.%20Hubble%20Exchange/Hubble%20Exchange%20Report.md) |
 | [Nouns Builder](https://audits.sherlock.xyz/contests/111) | 1 | 0 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/2.%20Nouns%20Builder/Nouns%20Builder%20Report.md) |
 | [LooksRare YOLO](https://audits.sherlock.xyz/contests/163) | 1 | 0 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/3.%20LooksRare%20Yolo/LooksRare%20Yolo%20Report.md) |
-| [Axis Finance](https://audits.sherlock.xyz/contests/206) | 2 | 1 | 6 |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/3.%20LooksRare%20Yolo/LooksRare%20Yolo%20Report.md) |
-| [Zivoe](https://audits.sherlock.xyz/contests/280) | 4 | 1 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/3.%20LooksRare%20Yolo/LooksRare%20Yolo%20Report.md) |
+| [Axis Finance](https://audits.sherlock.xyz/contests/206) | 2 | 1 | 6 |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/4.%20Axis%20Finance/Axis%20Finance%20Report.md) |
+| [Zivoe](https://audits.sherlock.xyz/contests/280) | 4 | 1 | - |[Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Dimulski/Sherlock/5.%20Zivoe/Zivoe%20Report.md) |
 
 # Summary - Grey Hawk Reach 
 | Overall | High risk | Medium risk |
