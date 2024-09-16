@@ -20,7 +20,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 ## Private Audits
 | Protocol | High risk | Medium risk | Report |
 |:--:|:--:|:--:|:--:|
-| [Vaultody](https://vaultody.com/?utm_source=Google_Ads&utm_medium=SearchAd_jun&utm_campaign=rival_terms&gclid=Cj0KCQjwrp-3BhDgARIsAEWJ6Swt-fN6yv5OaVKGIAnylmj9oks4gDMiiOkIXVPve9Q2aSuG6r-lUWsaAtBsEALw_wcB) | 0 | 1 | [Report]() |
+| [Vaultody](https://vaultody.com/?utm_source=Google_Ads&utm_medium=SearchAd_jun&utm_campaign=rival_terms&gclid=Cj0KCQjwrp-3BhDgARIsAEWJ6Swt-fN6yv5OaVKGIAnylmj9oks4gDMiiOkIXVPve9Q2aSuG6r-lUWsaAtBsEALw_wcB) | 0 | 1 | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Solo%20Audits/VaultodyWalletFactory.pdf) |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 | Contest | High risk | Medium risk | Ranking |
