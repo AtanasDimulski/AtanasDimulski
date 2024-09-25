@@ -15,7 +15,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 # Summary - Dimulski
 | Overall | High risk | Medium risk |
 |:--:|:--:|:--:|
-| 74 High/Medium | 42 High | 33 Medium | 
+| 80 High/Medium | 45 High | 36 Medium | 
 
 ## Private Audits
 | Protocol | High risk | Medium risk | Report |
@@ -52,7 +52,7 @@ I am always looking for new opportunities be it a job opening, private audit/sec
 | [Axis Finance](https://audits.sherlock.xyz/contests/206) | 2 | 1 | 6 |
 | [Zivoe](https://audits.sherlock.xyz/contests/280) | 4 | 1 | - |
 | [MagicSea](https://audits.sherlock.xyz/contests/437?filter=results) | 3 | 2 | - |
-| [Winnables Raffles](https://audits.sherlock.xyz/contests/516?filter=questions) | - | - | - |
+| [Winnables Raffles](https://audits.sherlock.xyz/contests/516?filter=questions) | 3 | 3 | 6 |
 | [Cork Protocol](https://audits.sherlock.xyz/contests/506?filter=questions) | - | - | - |
 | [Flayer](https://audits.sherlock.xyz/contests/468?filter=questions) | - | - | - |
 
